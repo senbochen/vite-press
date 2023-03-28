@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
-      { text: '实例', link: '/guilin' }
+      { text: '实例', link: '/guilin' },
+      { text: '个人主页', link: '/user' }
     ],
 
     sidebar: [
@@ -16,7 +17,8 @@ export default defineConfig({
         text: '首页',
         items: [
           { text: '桂林阳朔', link: '/guilin' },
-          { text: '深圳龙华', link: '/longhua' }
+          { text: '深圳龙华', link: '/longhua' },
+          { text: '个人主页', link: '/user' }
         ]
       }
     ],

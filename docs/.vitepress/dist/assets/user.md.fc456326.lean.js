@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as e,N as c}from"./chunks/framework.0e180df0.js";const s="/assets/user.222690ef.jpeg",d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"user.md"}'),p={name:"user.md"},l=c("",2),u=[l];function _(a,r,k,b,i,n){return t(),e("div",null,u)}const m=o(p,[["render",_]]);export{d as __pageData,m as default};
