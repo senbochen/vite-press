@@ -23,5 +23,6 @@
 
 ::: tip  个人照片
 
+<img src="./static/user1.jpg">
 <img src="./static/user.jpeg">
 
