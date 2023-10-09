@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "红宝书"
   text: "鲨鱼辣椒"
-  tagline: 今年去云南大理么？
+  tagline: 今年最幸运的事情，就是遇到了我的宝贝若兰？
   actions:
     - theme: brand
       text: 桂林阳朔
