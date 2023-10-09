@@ -11,8 +11,8 @@ hero:
       text: 桂林阳朔
       link: /guilin
     - theme: alt
-      text: 深圳龙华
-      link: /longhua
+      text: 武功山
+      link: /wugongshan
 
 features:
   - title: 桂林阳朔
