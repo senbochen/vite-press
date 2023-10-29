@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,N as s}from"./chunks/framework.0e180df0.js";const h=JSON.parse('{"title":"桂林阳朔","description":"","frontmatter":{},"headers":[],"relativePath":"guilin.md"}'),o={name:"guilin.md"},c=s("",3),i=[c];function p(_,l,n,r,d,u){return e(),a("div",null,i)}const f=t(o,[["render",p]]);export{h as __pageData,f as default};
